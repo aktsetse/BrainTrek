@@ -1,8 +1,8 @@
 # Adaptive Trivia Application
 
-Created and Designed by: **Irenee Niyibaho & Mark Sivan Tamakloe**
+Created and Designed by: **Amenuveve Kwame Tsetse**
 
-This is both a Terminal-based and GUI-based Java trivia game application with a bank of questions in different fields that adopts our real-time adaptive questioning and recommendation system. This local app models the user experience based on real world experience. Questions dynamically adjust in difficulty based on a player's performance to maintain an engaging and challenging experience.
+This is a Terminal-based and GUI-based Java trivia game application featuring a bank of questions across various fields, which utilizes our real-time adaptive questioning and recommendation system. This local app models the user experience based on real-world experience. Questions dynamically adjust in difficulty based on a player's performance to maintain an engaging and challenging experience.
 
 ## 🧠 Game Logic
 
