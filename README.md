@@ -1,4 +1,4 @@
-# Adaptive Trivia Application
+# BrainTrek
 
 Created and Designed by: **Amenuveve Kwame Tsetse**
 
