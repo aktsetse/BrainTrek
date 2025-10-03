@@ -32,18 +32,18 @@ Open your terminal and follow the steps below:
 
 Step 1: Clone the repository
 ```
-git clone https://github.com/marksivan/trivia-application-project.git
+git clone https://github.com/aktsetse/BrainTrek.git
 ```
 
 Step 2: Navigate to the project directory
 ```
-cd trivia-application-project
+cd BrainTrek-project
 ```
 
 Step 3: Compile all Java files to the bin directory
 
 ```
-javac -d bin $(find trivia -name "*.java")
+javac -d bin $(find BrainTrek-name "*.java")
 ```
  
 Step 4: Move into the compiled classes directory
@@ -59,13 +59,13 @@ java GUI.MainFrame
 ```
 Terminal-based game app:
 ```
-java trivia.BACKEND.SimulateGame
+java BrainTrek.BACKEND.SimulateGame
 ```
 
 ## 📁 Project Structure
 
 ```
-trivia-application-project/
+BrainTrek-project/
 ├── bin/                            # Compiled .class files
 │
 ├── trivia/
